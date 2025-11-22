@@ -9,12 +9,12 @@ Verification RDD
   </thead>
   <tbody>
     <tr>
-      <td>Recognition</td>
-      <td>4</td>
-    </tr>
-    <tr>
       <td>Vision</td>
       <td>66</td>
+    </tr>
+    <tr>
+      <td>Recognition</td>
+      <td>4</td>
     </tr>
   </tbody>
 </table>
