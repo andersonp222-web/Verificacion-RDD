@@ -1,2 +1,2 @@
-# Verificacion-RDD
-Verificacion RDD
+# Verification-RDD
+Verification RDD
