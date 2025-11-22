@@ -1,5 +1,5 @@
 # Verification-RDD
-Verification RDD
+Verification word count with RDD Spark
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
